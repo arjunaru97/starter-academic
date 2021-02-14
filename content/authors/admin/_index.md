@@ -19,3 +19,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Arjun Arunasalam received his Bachelors of Science in Engineering degree in Computer Engineering from the University of Michigan, Ann Arbor. He is currently pursuing a PhD degree in the Department of Computer Science at Purdue University, under the supervision of Dr. [Z. Berkay Celik](https://beerkay.github.io/). His research interests broadly lie in security
